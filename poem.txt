@@ -1,6 +1,7 @@
 The poem and the Unicorn and the mushroom
 potato
-
+Today is Earth Day.
+I love Earth Day
 1st
 2nd
 3rd
@@ -8,11 +9,13 @@ potato
 5th
 6th
 6.5
+
 B
 B
 B
 B
 B
+
 7th 
 8th
 Unicorn
